@@ -5,4 +5,4 @@ There are some things that are still a work in progress, and will be updated whe
 
 usage:
 
-python gen.py <passwordLength> <numberOfPasswords>
+python gen.py passwordLength numberOfPasswords
